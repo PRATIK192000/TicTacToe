@@ -1,2 +1,2 @@
 # TicTacToe
-TicTacToe is a game play with two member or player.
+TicTacToe is a java application game ,TicTacToe is play between two player.
